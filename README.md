@@ -1,6 +1,6 @@
-# Laravel 9 允許驗證環境設定值
+# Laravel 10 允許驗證環境設定值
 
-引入 ashallendesign 的 laravel-config-validator 套件來擴增允許驗證環境設定值，允許使用 Artisan 指令驗證環境設定值，以便可以確保設定了正確的環境設定值，還允許相對輕鬆地編寫複雜​​的規則。
+引入 ashallendesign 的 laravel-config-validator 套件來擴增允許驗證環境設定值，允許使用 Artisan 指令驗證環境設定值，以便可以確保設定了正確的環境設定值，還允許相對輕鬆地編寫複雜的規則。
 
 ## 使用方式
 - 把整個專案複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
@@ -24,5 +24,5 @@ $ php artisan config:validate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/WtwKRFP.png)
+![](https://i.imgur.com/ieMUraa.png)
 > 使用 Artisan 指令驗證環境設定值
